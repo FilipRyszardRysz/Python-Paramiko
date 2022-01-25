@@ -1,0 +1,8 @@
+-Created 3 VMs on Google Cloud Platform
+-OS: CentOS
+-Configure them to work with SSH connection
+-Created 10 users on each of them 
+-Connection test (done)
+-Wrong credential users and server names saved into yaml file.
+
+Done.
